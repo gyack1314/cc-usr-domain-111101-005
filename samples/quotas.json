@@ -1,0 +1,28 @@
+[
+  {
+    "id": "rainnight",
+    "predicate": {
+      "all": [
+        {
+          "tag": "rain"
+        },
+        {
+          "tag": "rare"
+        }
+      ]
+    },
+    "min": 2
+  },
+  {
+    "id": "night",
+    "predicate": {
+      "tag": "night"
+    },
+    "min": 3
+  },
+  {
+    "id": "city-east",
+    "city": "东城",
+    "max": 4
+  }
+]

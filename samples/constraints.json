@@ -1,0 +1,22 @@
+[
+  {
+    "id": "budget",
+    "kind": "budget",
+    "bytes": 1700
+  },
+  {
+    "id": "required",
+    "kind": "required",
+    "groups": [
+      "g00"
+    ]
+  },
+  {
+    "id": "exclusive",
+    "kind": "exclusive",
+    "groups": [
+      "g01",
+      "g02"
+    ]
+  }
+]

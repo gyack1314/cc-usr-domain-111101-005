@@ -1,0 +1,7 @@
+.git
+.env
+.env.*
+state
+output
+private
+__pycache__

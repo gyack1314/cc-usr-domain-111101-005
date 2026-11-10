@@ -1,0 +1,31 @@
+{
+  "groups": [
+    {
+      "id": "a",
+      "bytes": 3,
+      "value": 5,
+      "tags": [
+        "rain"
+      ]
+    },
+    {
+      "id": "b",
+      "bytes": 3,
+      "value": 5,
+      "tags": [
+        "rain"
+      ]
+    },
+    {
+      "id": "c",
+      "bytes": 5,
+      "value": 8,
+      "tags": [
+        "night"
+      ]
+    }
+  ],
+  "budget": 6,
+  "required": [],
+  "exclusive": []
+}

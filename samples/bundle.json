@@ -1,0 +1,17 @@
+{
+  "name": "稀有场景数据的多维配额预算选样",
+  "files": [
+    {
+      "path": "candidates.json",
+      "key": "scene_id"
+    },
+    {
+      "path": "quotas.json",
+      "key": "id"
+    },
+    {
+      "path": "constraints.json",
+      "key": "id"
+    }
+  ]
+}
